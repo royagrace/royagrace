@@ -4,11 +4,11 @@ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of Computer Science
 ---------------------------
 
-I am new to programming, but I am excited to learn! I am working on getting my bachelor's degree as a CS major and am exploring the many different paths that I can take with that. I love learning and can't wait to see where I end up in my coding adventures!
+I am new to programming, but am learning a lot! I am working on getting my bachelor's degree as a CS major and am exploring the many different paths that I can take with that. I love learning and can't wait to see where I end up in my coding adventures!
 
 * 🌍  I'm based in Missouri
 * ✉️  You can contact me at [cgmaurerthr@gmail.com](mailto:cgmaurerthr@gmail.com)
-* 🧠  I'm learning coding
+* 🧠  I'm learning coding, operating systems, algorithms, and databases
 
 ### Skills
 
